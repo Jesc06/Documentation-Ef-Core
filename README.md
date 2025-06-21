@@ -1,4 +1,4 @@
-# EntityFrameworkCore Set up guide Asp.NetCore MVC   
+# EntityFrameworkCore Set up guide Asp.NetCore MVC    
   
 ---  
  
